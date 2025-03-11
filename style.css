@@ -215,9 +215,6 @@ body {
   html {
     font-size: 60%;
   }
-  .hero::before {
-    width: 50%;
-  }
   .simply-countdown > .simply-section {
     padding: 45px;
     margin: 3px;
